@@ -1,3 +1,5 @@
+<img src="YOUR-BANNER-GIF-LINK" width="100%" alt="Banner GIF" />
+
 <h1 align="center">Hi 👋, I'm Faritha Banu Mustafa</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
