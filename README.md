@@ -1,9 +1,9 @@
-<img src="https://github.com/Farithabanu-M/Farithabanu-M/blob/main/hijabi_girl_coding_final.gif" width="100%" alt="Banner GIF" />
+<img src="https://github.com/Farithabanu-M/Farithabanu-M/blob/main/hijabi_girl_coding_final.gif" width="100%" height="75%" alt="Banner GIF" />
 
 <h1 align="center">Hi 👋, I'm Faritha Banu Mustafa</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
-<img align="right" height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZ0bjN3OGZ0aWVxZHg0bWRuaGdtbHk1Mzl4ZnlvcGNoYnNiMDgyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZ0bjN3OGZ0aWVxZHg0bWRuaGdtbHk1Mzl4ZnlvcGNoYnNiMDgyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 
 
