@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faritha Banu Mustafa</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+<img align="right" height="300" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" />
 
 
 
