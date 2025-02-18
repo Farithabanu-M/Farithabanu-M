@@ -1,4 +1,4 @@
-<img src="https://github.com/Farithabanu-M/Farithabanu-M/blob/main/hijabi_girl_coding_final.gif" width="100%" height="75%" alt="Banner GIF" />
+<img src="https://github.com/Farithabanu-M/Farithabanu-M/blob/main/hijabi_girl_coding_final.gif" width="100%" style="height: 600px;" alt="Banner GIF" />
 
 <h1 align="center">Hi 👋, I'm Faritha Banu Mustafa</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
