@@ -1,20 +1,16 @@
 <img src="https://github.com/Farithabanu-M/Farithabanu-M/blob/main/hijabi_girl_coding_final.gif" width="100%" style="height: 600px;" alt="Banner GIF" />
 
 <h1 align="center">Hi 👋, I'm Faritha Banu Mustafa</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
+<h3 align="center">A Passionate Business/Data Analyst from India</h3>
 
 <img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZ0bjN3OGZ0aWVxZHg0bWRuaGdtbHk1Mzl4ZnlvcGNoYnNiMDgyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
-
-
 ### 🚀 About Me
-- 🔭 Actively seeking full-time opportunities **Ready to Make an Impact! 💡**
+- 🔭 Actively seeking full-time opportunities in **Business/Data Analysis** to leverage my expertise in **data manipulation**, **visualization**, and **insight-driven decision-making** to make an impact! 💡
 
-- 🌱 I’m currently learning Java and its applications in software development, backend systems, and problem-solving! 
+- 🌱 Currently honing my skills in **Python**, **SQL**, **Power BI**, and **Excel** to build actionable insights and drive business improvements!
 
-- 👯 I’m looking to collaborate on data-driven projects, web development, and innovative problem-solving challenges! 
-
-
+- 👯 Eager to collaborate on **data-driven projects**, tackle complex **business problems**, and help organizations make informed, data-backed decisions! 
 
 ---
 
